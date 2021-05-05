@@ -1,6 +1,8 @@
 # emma-simulation
 Code related to simulation of the Emma Bot
 
+This work is based on work done by the [Open Dynamics Robotics Initiative](https://github.com/open-dynamic-robot-initiative/robot_properties_bolt)
+
 
 ## instructions
 
